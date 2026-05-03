@@ -1,7 +1,7 @@
 let contadorNo = 0;
 
 function responderSi() {
-    document.getElementById("mensaje").innerText = "¡Genial! Has aceptado 😄 Fin del proceso.";
+    document.getElementById("mensaje").innerText = "¡Genial! Has aceptado 😄.";
     document.getElementById("contador").innerText = "";
 }
 
